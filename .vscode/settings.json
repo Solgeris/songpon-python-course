@@ -1,6 +1,7 @@
 {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "github.copilot.enable": {
         "*": false
     },
@@ -11,11 +12,16 @@
 =======
 =======
 >>>>>>> upstream/main
+=======
+>>>>>>> upstream/main
     "editor.fontSize": 20,
     "editor.cursorBlinking": "solid",
     "editor.fontFamily": "Cascadia Mono",
     "editor.suggest.showVariables": true,
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/main
+=======
 >>>>>>> upstream/main
 =======
 >>>>>>> upstream/main
@@ -28,6 +34,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "editor.acceptSuggestionOnEnter": "off"
 =======
     "editor.acceptSuggestionOnEnter": "off",
@@ -36,12 +43,17 @@
 =======
 =======
 >>>>>>> upstream/main
+=======
+>>>>>>> upstream/main
     "editor.acceptSuggestionOnEnter": "on",
     "github.copilot.enable": {
         "*": false
     },
     "github.copilot.editor.enableAutoCompletions": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/main
+=======
 >>>>>>> upstream/main
 =======
 >>>>>>> upstream/main

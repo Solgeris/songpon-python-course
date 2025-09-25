@@ -20,6 +20,7 @@ class Student:
     # Method to add a grade
     def add_grade(self, grade):
 <<<<<<< HEAD
+<<<<<<< HEAD
         self.grades.append(grade)
 
     # Method to get the average grade
@@ -40,6 +41,8 @@ class Student:
             report += f"Subject : {subject} Grade : {score}\n"
         return report
 =======
+=======
+>>>>>>> upstream/main
         pass
 
     # Method to get the average grade
@@ -49,6 +52,9 @@ class Student:
     # Method to get the grade report
     def get_grade_report(self):
         pass
+<<<<<<< HEAD
+>>>>>>> upstream/main
+=======
 >>>>>>> upstream/main
 
 

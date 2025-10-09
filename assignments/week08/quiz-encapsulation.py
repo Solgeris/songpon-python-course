@@ -7,6 +7,7 @@ A method to check if it's a square (isSquare())
 
 """
 <<<<<<< HEAD
+<<<<<<< HEAD
 class Rectangle:
     def __init__(self, length, width):
         self.__length = length
@@ -31,6 +32,9 @@ if x.isSquare:
     print("x is square")
 else :
     print("x is not square")
+=======
+    
+>>>>>>> upstream/main
 =======
     
 >>>>>>> upstream/main

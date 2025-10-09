@@ -33,12 +33,16 @@ print(student1.add_course("Python Programming"))
 print(student1.add_course("Data Structures"))
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 print(student1.show_courses())
 print("")
 print(student2.introduce())
 print(student2.add_course("Math"))
 print(student2.add_course("Mathematics"))
 print(student2.show_courses())
+=======
+print(student1.show_courses())
+>>>>>>> upstream/main
 =======
 print(student1.show_courses())
 >>>>>>> upstream/main

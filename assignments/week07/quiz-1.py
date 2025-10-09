@@ -14,6 +14,7 @@ class Rectangle:
     def get_area(self):
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         area = self.length * self.width
         return area
 
@@ -24,12 +25,17 @@ class Rectangle:
 =======
 =======
 >>>>>>> upstream/main
+=======
+>>>>>>> upstream/main
         pass
 
     # Method to get the perimeter
     def get_perimeter(self):
         pass
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/main
+=======
 >>>>>>> upstream/main
 =======
 >>>>>>> upstream/main

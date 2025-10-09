@@ -6,37 +6,18 @@ Create a class hierarchy:
     Implement a method get_info() in both classes
 
 """
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 class Vehicle:
-
-    def __init__(self, brand, model , year):
+    def __init__(self,brand,model,year):
         self.brand = brand
         self.model = model
-        self.year = year
-    
-    def get_info(self):
-        return f"Brand: {self.brand}, Model: {self.model}, Year: {self.year}"
-    
-class Car(Vehicle):
-    
-    def __init__(self, brand, model, year, number_of_doors):
-        super().__init__(brand, model, year)
+        self.year  = year
+class car(Vehicle): #คลาส car รับถ่ายทอดจากคลาส Vehicle
+    def __init__(self,brand,model,year,number_of_doors):
+        super().__init__(brand,model,year)
         self.number_of_doors = number_of_doors
-    
-    def get_info(self):
-        return f"Brand: {self.brand}, Model: {self.model}, Year: {self.year}, Doors : {self.number_of_doors}"
+        
+    def get_info(self):#overriding method
+        return f"brand: {self.brand},Model: {self.model},year:{self.year},number of Doors: {self.number_of_doors}"
 
-myCar = Car("Toyota", "Yaris Cross", 2025, 4)
-print(myCar.get_info())
-=======
->>>>>>> upstream/main
-=======
->>>>>>> upstream/main
-=======
->>>>>>> upstream/main
-=======
->>>>>>> upstream/main
+mycar = car ("Toyota","Yaris cross",2025,4)
+print(mycar.get_info())

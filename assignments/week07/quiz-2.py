@@ -19,61 +19,26 @@ class Student:
 
     # Method to add a grade
     def add_grade(self, grade):
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-        self.grades.append(grade)
+        self.grade.append(grade)  
+        pass
 
     # Method to get the average grade
     def get_average_grade(self):
-        average_grade = 0
-        sum = 0
+        average_grade = sum
         for grade in self.grades:
-                score = grade['grade']
-                sum += score
+            score = grade["grade"]
+            sum+= score
         average_grade = sum/len(self.grades)
         return average_grade
-
+    # Method to get the grade report
     def get_grade_report(self):
         report = ""
         for grade in self.grades:
             subject = grade["subject"]
             score = grade["grade"]
-            report += f"Subject : {subject} Grade : {score}\n"
+            report += f"subject : " + {subject} + "gread" + {score} + "\n"
         return report
-=======
-=======
->>>>>>> upstream/main
-=======
->>>>>>> upstream/main
-=======
->>>>>>> upstream/main
-=======
->>>>>>> upstream/main
-        pass
 
-    # Method to get the average grade
-    def get_average_grade(self):
-        pass
-
-    # Method to get the grade report
-    def get_grade_report(self):
-        pass
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> upstream/main
-=======
->>>>>>> upstream/main
-=======
->>>>>>> upstream/main
-=======
->>>>>>> upstream/main
-=======
->>>>>>> upstream/main
 
 
 student = Student("John", 20, "S123")

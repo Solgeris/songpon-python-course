@@ -16,6 +16,7 @@ class Rectangle:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         area = self.length * self.width
         return area
 
@@ -30,6 +31,8 @@ class Rectangle:
 >>>>>>> upstream/main
 =======
 >>>>>>> upstream/main
+=======
+>>>>>>> upstream/main
         pass
 
     # Method to get the perimeter
@@ -38,6 +41,9 @@ class Rectangle:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/main
+=======
 >>>>>>> upstream/main
 =======
 >>>>>>> upstream/main

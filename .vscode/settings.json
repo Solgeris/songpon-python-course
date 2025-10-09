@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "github.copilot.enable": {
         "*": false
     },
@@ -14,6 +15,8 @@
 =======
 >>>>>>> upstream/main
 =======
+=======
+>>>>>>> upstream/main
 =======
 >>>>>>> upstream/main
 =======
@@ -36,6 +39,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/main
+=======
 >>>>>>> upstream/main
 =======
 >>>>>>> upstream/main
@@ -55,6 +61,7 @@
         "strings": false
     },
     "editor.acceptSuggestionOnCommitCharacter": false,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -95,6 +102,8 @@
 >>>>>>> upstream/main
 =======
 >>>>>>> upstream/main
+=======
+>>>>>>> upstream/main
     "editor.acceptSuggestionOnEnter": "on",
     "github.copilot.enable": {
         "*": false,
@@ -122,6 +131,9 @@
     }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/main
+=======
 >>>>>>> upstream/main
 =======
 >>>>>>> upstream/main

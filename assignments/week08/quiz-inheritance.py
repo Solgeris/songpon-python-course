@@ -8,6 +8,7 @@ Create a class hierarchy:
 """
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 class Vehicle:
 
@@ -30,6 +31,8 @@ class Car(Vehicle):
 
 myCar = Car("Toyota", "Yaris Cross", 2025, 4)
 print(myCar.get_info())
+=======
+>>>>>>> upstream/main
 =======
 >>>>>>> upstream/main
 =======

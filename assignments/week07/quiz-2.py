@@ -22,6 +22,7 @@ class Student:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         self.grades.append(grade)
 
     # Method to get the average grade
@@ -46,6 +47,8 @@ class Student:
 >>>>>>> upstream/main
 =======
 >>>>>>> upstream/main
+=======
+>>>>>>> upstream/main
         pass
 
     # Method to get the average grade
@@ -57,6 +60,9 @@ class Student:
         pass
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> upstream/main
+=======
 >>>>>>> upstream/main
 =======
 >>>>>>> upstream/main
